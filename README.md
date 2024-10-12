@@ -24,4 +24,4 @@ Engaging with katas is an excellent way to sharpen your problem-solving and algo
 
 ## Solved Katas
 
-- **8 kyu**: 4
+- **8 kyu**: 6
