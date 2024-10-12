@@ -1,6 +1,6 @@
 # Codewars Python Solutions
 
-Join [Codewars](www.codewars.com/r/5-CaHA) and follow [me](https://www.codewars.com/users/DeXoteric)!
+Join [Codewars](https://www.codewars.com/r/5-CaHA) and follow [me](https://www.codewars.com/users/DeXoteric)!
 
 ## Overview
 
@@ -24,4 +24,4 @@ Engaging with katas is an excellent way to sharpen your problem-solving and algo
 
 ## Solved Katas
 
-- **8 kyu**: 6
+- **8 kyu**: 8
