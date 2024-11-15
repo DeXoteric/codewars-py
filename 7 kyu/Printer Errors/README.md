@@ -1,8 +1,8 @@
-## Printer Errors
+# Printer Errors
 
 Link: [https://www.codewars.com/kata/56541980fa08ab47a0000040](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 
-### Description
+## Description
 
 In a factory a printer prints labels for boxes. For one kind of boxes the printer has to use colors which, for the sake of simplicity, are named with letters from `a to m`.
 
@@ -14,10 +14,10 @@ You have to write a function `printer_error` which given a string will return th
 
 The string has a length greater or equal to one and contains only letters from `a to z`.
 
-**Examples:**
+### Examples
 
 > s="aaabbbbhaijjjm"  
 > printer_error(s) => "0/14"
-
+>
 > s="aaaxbbbbyyhwawiwjjjwwm"  
 > printer_error(s) => "8/22"

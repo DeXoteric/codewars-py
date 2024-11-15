@@ -1,8 +1,8 @@
-## Is the string uppercase?
+# Is the string uppercase?
 
 Link: [https://www.codewars.com/kata/56cd44e1aa4ac7879200010b](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 
-### Description
+## Description
 
 Create a method to see whether the string is ALL CAPS.
 

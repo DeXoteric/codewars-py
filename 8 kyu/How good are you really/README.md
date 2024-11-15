@@ -1,8 +1,8 @@
-## How good are you really?
+# How good are you really?
 
 Link: [https://www.codewars.com/kata/5601409514fc93442500010b/](https://www.codewars.com/kata/5601409514fc93442500010b/)
 
-### Description
+## Description
 
 There was a test in your class and you passed it. Congratulations!
 

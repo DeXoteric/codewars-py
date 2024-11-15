@@ -1,8 +1,8 @@
-## You only need one - Beginner
+# You only need one - Beginner
 
 Link: [https://www.codewars.com/kata/57cc975ed542d3148f00015b](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 
-### Description
+## Description
 
 You will be given an array `a` and a value `x`. All you need to do is check whether the provided array contains the value.
 

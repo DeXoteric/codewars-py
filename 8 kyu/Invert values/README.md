@@ -1,8 +1,8 @@
-## Invert values
+# Invert values
 
 Link: [https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
 
-### Description
+## Description
 
 Given a set of numbers, return the additive inverse of each. Each positive becomes negatives, and the negatives become positives.
 

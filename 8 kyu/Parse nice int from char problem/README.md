@@ -1,8 +1,8 @@
-## Parse nice int from char problem
+# Parse nice int from char problem
 
 Link: [https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 
-### Description
+## Description
 
 You ask a small girl,"How old are you?" She always says, "x years old", where x is a random number between 0 and 9.
 
